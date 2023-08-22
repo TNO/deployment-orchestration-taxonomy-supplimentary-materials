@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2281px" height="7080px" viewBox="-0.5 -0.5 2281 7080" content="" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <path d="M 410 3755 L 455 3755 Q 465 3755 465 3745 L 465 720 Q 465 710 475 710 L 517 710" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="520" cy="710" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 410 3755 L 455 3755 Q 465 3755 465 3745 L 465 2180 Q 465 2170 475 2170 L 517 2170" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="520" cy="2170" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 410 3755 L 455 3755 Q 465 3755 465 3745 L 465 3370 Q 465 3360 475 3360 L 517 3360" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="520" cy="3360" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 410 3755 L 455 3755 Q 465 3755 465 3765 L 465 4320 Q 465 4330 475 4330 L 517 4330" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="520" cy="4330" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 410 3755 L 455 3755 Q 465 3755 465 3765 L 465 5760 Q 465 5770 475 5770 L 517 5770" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="520" cy="5770" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 410 3755 L 455 3755 Q 465 3755 465 3765 L 465 6790 Q 465 6800 475 6800 L 517 6800" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="520" cy="6800" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="0" y="3700" width="410" height="110" rx="16.5" ry="16.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="204.5" y="3751">Workload</text>
+            <text x="204.5" y="3781">Deployment Orchestration</text>
+        </g>
+        <path d="M 930 710 L 955 710 Q 965 710 965 720 L 965 1195 Q 965 1205 975 1205 L 997 1205" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="1205" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 710 L 955 710 Q 965 710 965 700 L 965 225 Q 965 215 975 215 L 997 215" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="215" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 710 L 955 710 Q 965 710 965 700 L 965 575 Q 965 565 975 565 L 997 565" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="565" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 710 L 955 710 Q 965 710 965 720 L 965 895 Q 965 905 975 905 L 997 905" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="905" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="520" y="670" width="410" height="80" rx="12" ry="12" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="724.5" y="721">Workload</text>
+        </g>
+        <path d="M 930 2170 L 955 2170 Q 965 2170 965 2180 L 965 2865 Q 965 2875 975 2875 L 997 2875" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="2875" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 2170 L 955 2170 Q 965 2170 965 2180 L 965 2335 Q 965 2345 975 2345 L 997 2345" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="2345" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 2170 L 955 2170 Q 965 2170 965 2160 L 965 1806 Q 965 1796 975 1795.99 L 997 1795.95" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="1795.95" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 2170 L 955 2170 Q 965 2170 965 2160 L 965 1485 Q 965 1475 975 1475 L 997 1475" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="1475" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="520" y="2130" width="410" height="80" rx="12" ry="12" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="724.5" y="2181">Scheduling</text>
+        </g>
+        <path d="M 930 3360 L 955 3360 Q 965 3360 965 3370 L 965 3505 Q 965 3515 975 3515 L 997 3515" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="3515" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 3360 L 955 3360 Q 965 3360 965 3350 L 965 3225 Q 965 3215 975 3215 L 997 3215" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="3215" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="520" y="3320" width="410" height="80" rx="12" ry="12" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="724.5" y="3371">Behaviour Modeling</text>
+        </g>
+        <path d="M 930 4330 L 955 4330 Q 965 4330 965 4340 L 965 4347.5 Q 965 4355 975 4355 L 997 4355" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="4355" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 4330 L 955 4330 Q 965 4330 965 4340 L 965 4675 Q 965 4685 975 4685 L 997 4685" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="4685" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 4330 L 955 4330 Q 965 4330 965 4340 L 965 4565 Q 965 4575 975 4575 L 997 4575" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="4575" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 4330 L 955 4330 Q 965 4330 965 4320 L 965 4255 Q 965 4245 975 4245 L 997 4245" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="4245" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 4330 L 955 4330 Q 965 4330 965 4320 L 965 4145 Q 965 4135 975 4135 L 997 4135" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="4135" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 4330 L 955 4330 Q 965 4330 965 4320 L 965 3815 Q 965 3805 975 3805 L 997 3805" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="3805" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 4330 L 955 4330 Q 965 4330 965 4320 L 965 4035 Q 965 4025 975 4025 L 997 4025" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="4025" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 4330 L 955 4330 Q 965 4330 965 4320 L 965 3925 Q 965 3915 975 3915 L 997 3915" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="3915" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="520" y="4290" width="410" height="80" rx="12" ry="12" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="724.5" y="4341">Data</text>
+        </g>
+        <path d="M 1350 565 L 1370 565 Q 1380 565 1380 575 L 1380 665 Q 1380 675 1390 675 L 1407 675" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="675" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 5770 L 955 5770 Q 965 5770 965 5780 L 965 5895 Q 965 5905 975 5905 L 997 5905" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="5905" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 5770 L 955 5770 Q 965 5770 965 5760 L 965 5585 Q 965 5575 975 5575 L 997 5575" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="5575" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 5770 L 955 5770 Q 965 5770 965 5780 L 965 6425 Q 965 6435 975 6435 L 997 6435" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="6435" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 5770 L 955 5770 Q 965 5770 965 5760 L 965 5315 Q 965 5305 975 5305 L 997 5305" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="5305" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="520" y="5730" width="410" height="80" rx="12" ry="12" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="724.5" y="5781">Environment</text>
+        </g>
+        <path d="M 930 6800 L 955 6800 Q 965 6800 965 6790 L 965 6685 Q 965 6675 975 6675 L 997 6675" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="6675" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 6800 L 955 6800 Q 965 6800 965 6810 L 965 6915 Q 965 6925 975 6925 L 997 6925" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="6925" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="520" y="6760" width="410" height="80" rx="12" ry="12" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="724.5" y="6811">Actors</text>
+        </g>
+        <path d="M 1660 7025 L 1680 7025 Q 1690 7025 1690 7015 L 1690 7005 Q 1690 6995 1700 6995 L 1717 6995" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="6995" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 7025 L 1680 7025 Q 1690 7025 1690 7035 L 1690 7044 Q 1690 7053 1700 7053 L 1717 7053" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="7053" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 6835 L 1680 6835 Q 1690 6835 1690 6825 L 1690 6815 Q 1690 6805 1700 6805 L 1717 6805" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="6805" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 6835 L 1680 6835 Q 1690 6835 1690 6825 L 1690 6755 Q 1690 6745 1700 6745 L 1717 6745" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="6745" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 6835 L 1680 6835 Q 1690 6835 1690 6845 L 1690 6855 Q 1690 6865 1700 6865 L 1717 6865" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="6865" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 6835 L 1680 6835 Q 1690 6835 1690 6845 L 1690 6915 Q 1690 6925 1700 6925 L 1717 6925" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="6925" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="6720" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="6753.5">Collaborative</text>
+        </g>
+        <rect x="1720" y="6780" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="6801.5">Adversarial /</text>
+            <text x="1844.5" y="6825.5">Malicious</text>
+        </g>
+        <rect x="1720" y="6840" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="6873.5">Competitive</text>
+        </g>
+        <rect x="1720" y="6900" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="6921.5">Individual /</text>
+            <text x="1844.5" y="6945.5">non-communicative</text>
+        </g>
+        <rect x="1720" y="6970" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="7003.5">Hierarchical</text>
+        </g>
+        <rect x="1720" y="7028" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="7049.5">Decentralized /</text>
+            <text x="1844.5" y="7073.5">democratized</text>
+        </g>
+        <path d="M 1350 6435 L 1370 6435 Q 1380 6435 1380 6445 L 1380 6465 Q 1380 6475 1390 6475 L 1407 6475" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6475" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 6435 L 1370 6435 Q 1380 6435 1380 6425 L 1380 6415 Q 1380 6405 1390 6405 L 1407 6405" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6405" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="6400" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="6431">Infrastructure</text>
+            <text x="1174.5" y="6461">topology</text>
+        </g>
+        <path d="M 1660 675 L 1680 675 Q 1690 675 1690 685 L 1690 695 Q 1690 705 1700 705 L 1717 705" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="705" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 675 L 1680 675 Q 1690 675 1690 665 L 1690 655 Q 1690 645 1700 645 L 1717 645" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="645" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="650" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="683.5">Data flow topology</text>
+        </g>
+        <path d="M 1350 5905 L 1370 5905 Q 1380 5905 1380 5895 L 1380 5815 Q 1380 5805 1390 5805 L 1407 5805" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5805" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 5905 L 1370 5905 Q 1380 5905 1380 5895 L 1380 5885 Q 1380 5875 1390 5875 L 1407 5875" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5875" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 5905 L 1370 5905 Q 1380 5905 1380 5915 L 1380 5935 Q 1380 5945 1390 5945 L 1407 5945" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5945" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 5905 L 1370 5905 Q 1380 5905 1380 5915 L 1380 6005 Q 1380 6015 1390 6015 L 1407 6015" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6015" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="5870" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="5901">Computing resource </text>
+            <text x="1174.5" y="5931">availability</text>
+        </g>
+        <path d="M 1350 5575 L 1370 5575 Q 1380 5575 1380 5565 L 1380 5445 Q 1380 5435 1390 5435 L 1407 5435" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5435" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 5575 L 1370 5575 Q 1380 5575 1380 5565 L 1380 5515 Q 1380 5505 1390 5505 L 1407 5505" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5505" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="5540" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="5586">Virtualization</text>
+        </g>
+        <path d="M 1660 6475 L 1680 6475 Q 1690 6475 1690 6485 L 1690 6495 Q 1690 6505 1700 6505 L 1717 6505" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="6505" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 6475 L 1680 6475 Q 1690 6475 1690 6465 L 1690 6455 Q 1690 6445 1700 6445 L 1717 6445" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="6445" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="6450" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="6483.5">Multi-node</text>
+        </g>
+        <rect x="1410" y="6380" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="6413.5">Single node</text>
+        </g>
+        <path d="M 1970 6505 L 1990 6505 Q 2000 6505 2000 6495 L 2000 6485 Q 2000 6475 2010 6475 L 2027 6475" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="2030" cy="6475" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1970 6505 L 1990 6505 Q 2000 6505 2000 6515 L 2000 6525 Q 2000 6535 2010 6535 L 2027 6535" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="2030" cy="6535" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="6480" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="6513.5">Multi-cluster</text>
+        </g>
+        <rect x="1720" y="6420" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="6453.5">Single cluster</text>
+        </g>
+        <rect x="2030" y="6510" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="2154.5" y="6531.5">Heterogeneous, </text>
+            <text x="2154.5" y="6555.5">hybrid</text>
+        </g>
+        <rect x="2030" y="6450" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="2154.5" y="6483.5">Homogeneous</text>
+        </g>
+        <rect x="1720" y="680" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="701.5">Client-server/</text>
+            <text x="1844.5" y="725.5">hierarchical</text>
+        </g>
+        <rect x="1720" y="620" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="641.5">Peer-to-peer</text>
+            <text x="1844.5" y="665.5">intercommunicating</text>
+        </g>
+        <rect x="1410" y="5920" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5941.5">Intermittent </text>
+            <text x="1534.5" y="5965.5">connectivty</text>
+        </g>
+        <rect x="1410" y="5990" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="19px">
+            <text x="1534.5" y="6011.5">Unconstrained, </text>
+            <text x="1534.5" y="6034.5">large scale</text>
+        </g>
+        <rect x="1410" y="5850" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5871.5">Constrained </text>
+            <text x="1534.5" y="5895.5">connectivity</text>
+        </g>
+        <rect x="1410" y="5780" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="16px">
+            <text x="1534.5" y="5802">Constrained processing </text>
+            <text x="1534.5" y="5821">resources</text>
+        </g>
+        <rect x="1410" y="5550" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5583.5">Containerized</text>
+        </g>
+        <rect x="1410" y="5480" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5513.5">Bare-metal</text>
+        </g>
+        <rect x="1410" y="5410" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5443.5">Virtual machines</text>
+        </g>
+        <rect x="1000" y="4320" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="4366">Quality</text>
+        </g>
+        <rect x="1000" y="4210" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="4256">Metadata management</text>
+        </g>
+        <rect x="1000" y="4540" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="4586">Migrations &amp; backup</text>
+        </g>
+        <path d="M 1350 4685 L 1370 4685 Q 1380 4685 1380 4675 L 1380 4625 Q 1380 4615 1390 4615 L 1407 4615" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4615" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4685 L 1407 4685" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4685" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4685 L 1370 4685 Q 1380 4685 1380 4695 L 1380 4744 Q 1380 4754 1390 4754 L 1407 4754" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4754" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="4650" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="4696">Monitoring</text>
+        </g>
+        <path d="M 1350 4025 L 1370 4025 Q 1380 4025 1380 4015 L 1380 3795 Q 1380 3785 1390 3785 L 1407 3785" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3785" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4025 L 1370 4025 Q 1380 4025 1380 4015 L 1380 3865 Q 1380 3855 1390 3855 L 1407 3855" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3855" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4025 L 1370 4025 Q 1380 4025 1380 4015 L 1380 3935 Q 1380 3925 1390 3925 L 1407 3925" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3925" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4025 L 1370 4025 Q 1380 4025 1380 4035 L 1380 4055 Q 1380 4065 1390 4065 L 1407 4065" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4065" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4025 L 1370 4025 Q 1380 4025 1380 4035 L 1380 4125 Q 1380 4135 1390 4135 L 1407 4135" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4135" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4025 L 1370 4025 Q 1380 4025 1380 4035 L 1380 4195 Q 1380 4205 1390 4205 L 1407 4205" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4205" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4025 L 1370 4025 Q 1380 4025 1380 4035 L 1380 4265 Q 1380 4275 1390 4275 L 1407 4275" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4275" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="3990" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="4036">Type</text>
+        </g>
+        <rect x="1000" y="3770" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="3816">Access</text>
+        </g>
+        <rect x="1000" y="4100" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="4146">Privacy &amp; Security</text>
+        </g>
+        <rect x="1000" y="3880" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="3911">Gravity, locality</text>
+            <text x="1174.5" y="3941">&amp; caching</text>
+        </g>
+        <path d="M 1350 3515 L 1370 3515 Q 1380 3515 1380 3525 L 1380 3575 Q 1380 3585 1390 3585 L 1407 3585" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3585" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 3515 L 1370 3515 Q 1380 3515 1380 3505 L 1380 3455 Q 1380 3445 1390 3445 L 1407 3445" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3445" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 3515 L 1407 3515" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3515" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="3480" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="3526">Method</text>
+        </g>
+        <rect x="1000" y="2840" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="2886">Architecture</text>
+        </g>
+        <path d="M 1350 2345 L 1370 2345 Q 1380 2345 1380 2355 L 1380 2495 Q 1380 2505 1390 2505 L 1407 2505" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2505" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 2345 L 1370 2345 Q 1380 2345 1380 2355 L 1380 2415 Q 1380 2425 1390 2425 L 1407 2425" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2425" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 2345 L 1370 2345 Q 1380 2345 1380 2335 L 1380 2185 Q 1380 2175 1390 2175 L 1407 2175" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2175" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 2595 L 1680 2595 Q 1690 2595 1690 2585 L 1690 2515 Q 1690 2505 1700 2505 L 1717 2505" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2505" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 2345 L 1407 2345" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2345" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 2345 L 1370 2345 Q 1380 2345 1380 2335 L 1380 2265 Q 1380 2255 1390 2255 L 1407 2255" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2255" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 2595 L 1680 2595 Q 1690 2595 1690 2605 L 1690 2615 Q 1690 2625 1700 2625 L 1717 2625" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2625" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 2345 L 1370 2345 Q 1380 2345 1380 2335 L 1380 2105 Q 1380 2095 1390 2095 L 1407 2095" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2095" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 2595 L 1680 2595 Q 1690 2595 1690 2585 L 1690 2575 Q 1690 2565 1700 2565 L 1717 2565" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2565" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="2310" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="2341">Metrics /</text>
+            <text x="1174.5" y="2371">Objectives</text>
+        </g>
+        <path d="M 1350 1796 L 1370 1796 Q 1380 1796 1380 1786 L 1380 1735 Q 1380 1725 1390 1725 L 1407 1725" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1725" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 1795.95 L 1370 1795.98 Q 1380 1796 1380 1786 L 1380 1665 Q 1380 1655 1390 1655 L 1407 1655" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1655" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="1760.95" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="1791.95">Policies /</text>
+            <text x="1174.5" y="1821.95">constraints</text>
+        </g>
+        <path d="M 1350 1475 L 1370 1475 Q 1380 1475 1380 1465 L 1380 1415 Q 1380 1405 1390 1405 L 1407 1405" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1405" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 1475 L 1407 1475" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1475" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 1475 L 1370 1475 Q 1380 1475 1380 1485 L 1380 1535 Q 1380 1545 1390 1545 L 1407 1545" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1545" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="1440" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="1486">Strategy</text>
+        </g>
+        <path d="M 1350 2875 L 1407 2875" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2875" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 2875 L 1370 2875 Q 1380 2875 1380 2865 L 1380 2745 Q 1380 2735 1390 2735 L 1407 2735" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2735" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 2875 L 1370 2875 Q 1380 2875 1380 2865 L 1380 2815 Q 1380 2805 1390 2805 L 1407 2805" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2805" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="3760" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3793.5">Text/numerical</text>
+        </g>
+        <rect x="1410" y="3830" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3863.5">Blob/binary</text>
+        </g>
+        <rect x="1410" y="3900" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3933.5">Image</text>
+        </g>
+        <rect x="1410" y="4040" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4073.5">Audio</text>
+        </g>
+        <rect x="1410" y="4110" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4143.5">Structured</text>
+        </g>
+        <rect x="1410" y="4180" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4213.5">Unstructured</text>
+        </g>
+        <rect x="1410" y="4250" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4283.5">Time-series</text>
+        </g>
+        <rect x="1410" y="4590" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4623.5">Health</text>
+        </g>
+        <rect x="1410" y="4660" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4693.5">Size</text>
+        </g>
+        <rect x="1410" y="4729" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4762.5">Location</text>
+        </g>
+        <rect x="1410" y="3560" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3593.5">Grid search</text>
+        </g>
+        <rect x="1410" y="3420" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3453.5">Hypothesis testing</text>
+        </g>
+        <rect x="1410" y="3490" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3523.5">(co-) Simulation</text>
+        </g>
+        <rect x="1410" y="1380" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1413.5">Automated</text>
+        </g>
+        <rect x="1410" y="1450" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1471.5">User-defined /</text>
+            <text x="1534.5" y="1495.5">manual</text>
+        </g>
+        <rect x="1410" y="1520" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1541.5">Hybrid /</text>
+            <text x="1534.5" y="1565.5">human-in-the-loop</text>
+        </g>
+        <rect x="1720" y="1260" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="1281.5">Mathematical models </text>
+            <text x="1844.5" y="1305.5">(MILP)</text>
+        </g>
+        <path d="M 1660 1405 L 1680 1405 Q 1690 1405 1690 1395 L 1690 1295 Q 1690 1285 1700 1285 L 1717 1285" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="1285" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="1320" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="1353.5">Heuristic-based</text>
+        </g>
+        <path d="M 1660 1405 L 1680 1405 Q 1690 1405 1690 1395 L 1690 1355 Q 1690 1345 1700 1345 L 1717 1345" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="1345" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="1380" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="1401.5">Machine </text>
+            <text x="1844.5" y="1425.5">learning-based</text>
+        </g>
+        <path d="M 1660 1405 L 1717 1405" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="1405" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="1440" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="1473.5">Hybrid</text>
+        </g>
+        <path d="M 1660 1405 L 1680 1405 Q 1690 1405 1690 1415 L 1690 1455 Q 1690 1465 1700 1465 L 1717 1465" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="1465" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="1500" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="1521.5">Market-based /</text>
+            <text x="1844.5" y="1545.5">coordination</text>
+        </g>
+        <path d="M 1660 1405 L 1680 1405 Q 1690 1405 1690 1415 L 1690 1515 Q 1690 1525 1700 1525 L 1717 1525" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="1525" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="1630" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1663.5">Location</text>
+        </g>
+        <rect x="1410" y="1700" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1733.5">Domain constraints</text>
+        </g>
+        <rect x="1410" y="2850" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="2883.5">Hybrid</text>
+        </g>
+        <rect x="1410" y="2710" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="2743.5">Centralized</text>
+        </g>
+        <rect x="1410" y="2780" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="2813.5">Decentralized</text>
+        </g>
+        <rect x="1410" y="2480" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="2513.5">Data quality</text>
+        </g>
+        <rect x="1410" y="2400" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="18px">
+            <text x="1534.5" y="2421.5">Scheduling</text>
+            <text x="1534.5" y="2443.5">communication overhead</text>
+        </g>
+        <rect x="1410" y="2150" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="2183.5">Cost (monetary)</text>
+        </g>
+        <rect x="1720" y="2480" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2513.5">Reliability</text>
+        </g>
+        <rect x="1410" y="2230" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="2263.5">Carbon footprint</text>
+        </g>
+        <rect x="1410" y="2320" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="2353.5">Network</text>
+        </g>
+        <rect x="1410" y="1910" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1943.5">Security</text>
+        </g>
+        <rect x="1720" y="1910" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="1943.5">Trust</text>
+        </g>
+        <path d="M 1660 1935 L 1717 1935" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="1935" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="2230" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2263.5">Bandwidth</text>
+        </g>
+        <path d="M 1660 2345 L 1680 2345 Q 1690 2345 1690 2335 L 1690 2265 Q 1690 2255 1700 2255 L 1717 2255" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2255" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="2290" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2323.5">Latency</text>
+        </g>
+        <path d="M 1660 2345 L 1680 2345 Q 1690 2345 1690 2335 L 1690 2325 Q 1690 2315 1700 2315 L 1717 2315" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2315" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="2350" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2383.5">Loss</text>
+        </g>
+        <path d="M 1660 2345 L 1680 2345 Q 1690 2345 1690 2355 L 1690 2365 Q 1690 2375 1700 2375 L 1717 2375" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2375" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="2600" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2633.5">Scalability</text>
+        </g>
+        <rect x="1410" y="2070" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="19px">
+            <text x="1534.5" y="2103">Resource utilization</text>
+        </g>
+        <rect x="1720" y="2540" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2573.5">Availability</text>
+        </g>
+        <rect x="1720" y="1980" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2013.5">Energy</text>
+        </g>
+        <path d="M 1660 2095 L 1680 2095 Q 1690 2095 1690 2085 L 1690 2015 Q 1690 2005 1700 2005 L 1717 2005" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2005" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="2040" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2073.5">CPU/GPU/TPU</text>
+        </g>
+        <path d="M 1660 2095 L 1680 2095 Q 1690 2095 1690 2085 L 1690 2075 Q 1690 2065 1700 2065 L 1717 2065" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2065" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="2100" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2133.5">RAM</text>
+        </g>
+        <path d="M 1660 2095 L 1680 2095 Q 1690 2095 1690 2105 L 1690 2115 Q 1690 2125 1700 2125 L 1717 2125" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2125" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 1205 L 1370 1205 Q 1380 1205 1380 1195 L 1380 1145 Q 1380 1135 1390 1135 L 1407 1135" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1135" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 1205 L 1407 1205" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1205" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 1205 L 1370 1205 Q 1380 1205 1380 1215 L 1380 1265 Q 1380 1275 1390 1275 L 1407 1275" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1275" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="1170" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="1216">Flexibility</text>
+        </g>
+        <rect x="1410" y="1250" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1283.5">Scale</text>
+        </g>
+        <rect x="1410" y="1180" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1213.5">Geospatial</text>
+        </g>
+        <rect x="1410" y="1110" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1143.5">Temporal</text>
+        </g>
+        <path d="M 1350 905 L 1407 905" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="905" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 905 L 1370 905 Q 1380 905 1380 895 L 1380 775 Q 1380 765 1390 765 L 1407 765" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="765" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 905 L 1370 905 Q 1380 905 1380 895 L 1380 845 Q 1380 835 1390 835 L 1407 835" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="835" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 905 L 1370 905 Q 1380 905 1380 915 L 1380 965 Q 1380 975 1390 975 L 1407 975" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="975" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 905 L 1370 905 Q 1380 905 1380 915 L 1380 1035 Q 1380 1045 1390 1045 L 1407 1045" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1045" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="870" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="916">Resource usage</text>
+        </g>
+        <path d="M 1350 565 L 1370 565 Q 1380 565 1380 555 L 1380 525 Q 1380 515 1390 515 L 1407 515" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="515" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 565 L 1370 565 Q 1380 565 1380 555 L 1380 455 Q 1380 445 1390 445 L 1407 445" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="445" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="530" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="576">Architecture</text>
+        </g>
+        <path d="M 1350 215 L 1370 215 Q 1380 215 1380 225 L 1380 345 Q 1380 355 1390 355 L 1407 355" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="355" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 215 L 1370 215 Q 1380 215 1380 225 L 1380 275 Q 1380 285 1390 285 L 1407 285" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="285" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 215 L 1407 215" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="215" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 215 L 1370 215 Q 1380 215 1380 205 L 1380 65 Q 1380 55 1390 55 L 1407 55" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="55" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="180" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="226">Type</text>
+        </g>
+        <rect x="1410" y="1020" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="17px">
+            <text x="1534.5" y="1042">Virtual (representation</text>
+            <text x="1534.5" y="1062">of physical asset)</text>
+        </g>
+        <rect x="1410" y="950" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="983.5">Energy</text>
+        </g>
+        <rect x="1410" y="810" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="843.5">Device constraints</text>
+        </g>
+        <rect x="1410" y="740" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="773.5">Network traffic</text>
+        </g>
+        <path d="M 1660 905 L 1680 905 Q 1690 905 1690 895 L 1690 825 Q 1690 815 1700 815 L 1717 815" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="815" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 905 L 1680 905 Q 1690 905 1690 895 L 1690 884 Q 1690 874 1700 874 L 1717 874" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="874" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 905 L 1680 905 Q 1690 905 1690 915 L 1690 925 Q 1690 935 1700 935 L 1717 935" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="935" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="880" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="901.5">Processing</text>
+            <text x="1534.5" y="925.5">footprint</text>
+        </g>
+        <rect x="1720" y="790" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="823.5">RAM</text>
+        </g>
+        <rect x="1720" y="849" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="882.5">CPU</text>
+        </g>
+        <rect x="1720" y="910" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="943.5">GPU</text>
+        </g>
+        <rect x="1410" y="420" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="441.5">Single workload /</text>
+            <text x="1534.5" y="465.5">monolithic</text>
+        </g>
+        <path d="M 1660 515 L 1680 515 Q 1690 515 1690 525 L 1690 565 Q 1690 575 1700 575 L 1717 575" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="575" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 515 L 1717 515" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="515" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 515 L 1680 515 Q 1690 515 1690 505 L 1690 465 Q 1690 455 1700 455 L 1717 455" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="455" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="490" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="523.5">Distributed</text>
+        </g>
+        <rect x="1720" y="550" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="583.5">DAG / Structured</text>
+        </g>
+        <rect x="1720" y="490" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="511.5">Decentralized /</text>
+            <text x="1844.5" y="535.5">Co-located</text>
+        </g>
+        <rect x="1720" y="430" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="463.5">Hierarchical</text>
+        </g>
+        <rect x="1410" y="330" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="363.5">Data/model/artifact</text>
+        </g>
+        <rect x="1410" y="260" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="17px">
+            <text x="1534.5" y="282">Virtual (representation</text>
+            <text x="1534.5" y="302">of physical asset)</text>
+        </g>
+        <path d="M 1660 215 L 1680 215 Q 1690 215 1690 205 L 1690 165 Q 1690 155 1700 155 L 1717 155" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="155" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 215 L 1717 215" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="215" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 215 L 1680 215 Q 1690 215 1690 225 L 1690 265 Q 1690 275 1700 275 L 1717 275" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="275" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="190" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="223.5">Timespan</text>
+        </g>
+        <rect x="1410" y="30" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="63.5">Application state</text>
+        </g>
+        <rect x="1720" y="130" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="163.5">Periodical</text>
+        </g>
+        <rect x="1720" y="190" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="223.5">Continuous</text>
+        </g>
+        <rect x="1720" y="250" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="283.5">One-time</text>
+        </g>
+        <path d="M 1350 6925 L 1370 6925 Q 1380 6925 1380 6915 L 1380 6845 Q 1380 6835 1390 6835 L 1407 6835" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6835" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 6925 L 1370 6925 Q 1380 6925 1380 6935 L 1380 7015 Q 1380 7025 1390 7025 L 1407 7025" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="7025" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="6890" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="6936">Topology</text>
+        </g>
+        <path d="M 1350 6675 L 1370 6675 Q 1380 6675 1380 6665 L 1380 6615 Q 1380 6605 1390 6605 L 1407 6605" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6605" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 6675 L 1407 6675" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6675" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 6675 L 1370 6675 Q 1380 6675 1380 6685 L 1380 6735 Q 1380 6745 1390 6745 L 1407 6745" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6745" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="6640" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="6686">Type</text>
+        </g>
+        <rect x="1410" y="6580" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="6613.5">End-user</text>
+        </g>
+        <rect x="1410" y="6650" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="6671.5">Application </text>
+            <text x="1534.5" y="6695.5">provider</text>
+        </g>
+        <rect x="1410" y="6720" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="6741.5">Infrastructure-, </text>
+            <text x="1534.5" y="6765.5">platform provider</text>
+        </g>
+        <rect x="1410" y="6810" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="6843.5">Multi-stakeholder</text>
+        </g>
+        <rect x="1410" y="7000" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="7033.5">Single stakeholder</text>
+        </g>
+        <path d="M 1350 3515 L 1370 3515 Q 1380 3515 1380 3505 L 1380 3385 Q 1380 3375 1390 3375 L 1407 3375" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3375" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 3215 L 1370 3215 Q 1380 3215 1380 3225 L 1380 3275 Q 1380 3285 1390 3285 L 1407 3285" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3285" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 3215 L 1407 3215" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3215" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 3215 L 1370 3215 Q 1380 3215 1380 3205 L 1380 3155 Q 1380 3145 1390 3145 L 1407 3145" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3145" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="3180" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="3226">Type</text>
+        </g>
+        <rect x="1410" y="3120" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3141.5">Workload </text>
+            <text x="1534.5" y="3165.5">characterization</text>
+        </g>
+        <rect x="1410" y="3190" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3211.5">Performance</text>
+            <text x="1534.5" y="3235.5">analysis</text>
+        </g>
+        <rect x="1410" y="3260" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3281.5">Dependency</text>
+            <text x="1534.5" y="3305.5">checking</text>
+        </g>
+        <rect x="1410" y="3350" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3383.5">Anomaly detection</text>
+        </g>
+        <path d="M 1350 5305 L 1370 5305 Q 1380 5305 1380 5315 L 1380 5335 Q 1380 5345 1390 5345 L 1407 5345" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5345" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 5305 L 1370 5305 Q 1380 5305 1380 5295 L 1380 5285 Q 1380 5275 1390 5275 L 1407 5275" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5275" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="5270" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="5316">Context</text>
+        </g>
+        <rect x="1410" y="5250" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5283.5">Static</text>
+        </g>
+        <rect x="1410" y="5320" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5353.5">Dynamic</text>
+        </g>
+        <rect x="1410" y="3970" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4003.5">Video</text>
+        </g>
+        <rect x="2030" y="280" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="2154.5" y="301.5">Triggered (cloud-</text>
+            <text x="2154.5" y="325.5">native, streams)</text>
+        </g>
+        <rect x="2030" y="220" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="2154.5" y="253.5">Batch</text>
+        </g>
+        <path d="M 1970 275 L 1990 275 Q 2000 275 2000 265 L 2000 255 Q 2000 245 2010 245 L 2027 245" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="2030" cy="245" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1970 275 L 1990 275 Q 2000 275 2000 285 L 2000 295 Q 2000 305 2010 305 L 2027 305" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="2030" cy="305" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="0" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="33.5">Stateful</text>
+        </g>
+        <rect x="1720" y="60" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="93.5">Stateless</text>
+        </g>
+        <path d="M 1660 55 L 1680 55 Q 1690 55 1690 45 L 1690 35 Q 1690 25 1700 25 L 1717 25" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="25" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 55 L 1680 55 Q 1690 55 1690 65 L 1690 75 Q 1690 85 1700 85 L 1717 85" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="85" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="970" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="1003.5">TPU</text>
+        </g>
+        <path d="M 1660 905 L 1680 905 Q 1690 905 1690 915 L 1690 985 Q 1690 995 1700 995 L 1717 995" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="995" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="2750" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2783.5">Broker</text>
+        </g>
+        <rect x="1720" y="2810" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2843.5">Multi-agent</text>
+        </g>
+        <path d="M 1660 2805 L 1680 2805 Q 1690 2805 1690 2795 L 1690 2785 Q 1690 2775 1700 2775 L 1717 2775" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2775" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 2805 L 1680 2805 Q 1690 2805 1690 2815 L 1690 2825 Q 1690 2835 1700 2835 L 1717 2835" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2835" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="1570" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="1603.5">of User</text>
+        </g>
+        <rect x="1720" y="1630" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="1663.5">of Hardware</text>
+        </g>
+        <rect x="1720" y="1690" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="1723.5">of Data</text>
+        </g>
+        <path d="M 1660 1655 L 1680 1655 Q 1690 1655 1690 1645 L 1690 1605 Q 1690 1595 1700 1595 L 1717 1595" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="1595" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 1655 L 1717 1655" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="1655" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 1655 L 1680 1655 Q 1690 1655 1690 1665 L 1690 1705 Q 1690 1715 1700 1715 L 1717 1715" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="1715" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="1770" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1803.5">Physical constraints</text>
+        </g>
+        <path d="M 1350 1795.95 L 1370 1795.98 Q 1380 1796 1389.99 1795.67 L 1407 1795.1" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1795" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="1840.95" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="1862.45">Organizational</text>
+            <text x="1534.5" y="1886.45">policies</text>
+        </g>
+        <path d="M 1350 1795.95 L 1370 1795.98 Q 1380 1796 1380 1806 L 1380 1856 Q 1380 1866 1390 1865.98 L 1407 1865.95" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1865.95" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 1795.95 L 1370 1795.98 Q 1380 1796 1380 1806 L 1380 1925 Q 1380 1935 1390 1935 L 1407 1935" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="1935" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="2570" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="2603.5">Performance</text>
+        </g>
+        <rect x="1720" y="2160" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2193.5">Disk</text>
+        </g>
+        <path d="M 1660 2095 L 1680 2095 Q 1690 2095 1690 2105 L 1690 2175 Q 1690 2185 1700 2185 L 1717 2185" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2185" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 2345 L 1370 2345 Q 1380 2345 1380 2355 L 1380 2585 Q 1380 2595 1390 2595 L 1407 2595" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2595" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 2595 L 1680 2595 Q 1690 2595 1690 2605 L 1690 2675 Q 1690 2685 1700 2685 L 1717 2685" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2685" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="2660" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2693.5">Computational speed</text>
+        </g>
+        <rect x="1410" y="3630" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3663.5">Manual</text>
+        </g>
+        <path d="M 1350 3515 L 1370 3515 Q 1380 3515 1380 3525 L 1380 3645 Q 1380 3655 1390 3655 L 1407 3655" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3655" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="4430" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="4476">Storage</text>
+        </g>
+        <path d="M 930 4330 L 955 4330 Q 965 4330 965 4340 L 965 4455 Q 965 4465 975 4465 L 997 4465" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="4465" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="4410" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4431.5">Versions,</text>
+            <text x="1534.5" y="4455.5">deduplication</text>
+        </g>
+        <rect x="1410" y="4480" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4501.5">Archive,</text>
+            <text x="1534.5" y="4525.5">compression</text>
+        </g>
+        <path d="M 1350 4465 L 1370 4465 Q 1380 4465 1380 4455 L 1380 4445 Q 1380 4435 1390 4435 L 1407 4435" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4435" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4465 L 1370 4465 Q 1380 4465 1380 4475 L 1380 4495 Q 1380 4505 1390 4505 L 1407 4505" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4505" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="4840" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="4886">Ingestion</text>
+        </g>
+        <rect x="1410" y="4820" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4853.5">Streaming</text>
+        </g>
+        <rect x="1410" y="4890" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="4923.5">Batch</text>
+        </g>
+        <path d="M 1350 4875 L 1370 4875 Q 1380 4875 1380 4865 L 1380 4855 Q 1380 4845 1390 4845 L 1407 4845" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4845" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4875 L 1370 4875 Q 1380 4875 1380 4885 L 1380 4905 Q 1380 4915 1390 4915 L 1407 4915" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="4915" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 930 4330 L 955 4330 Q 965 4330 965 4340 L 965 4865 Q 965 4875 975 4875 L 997 4875" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="4875" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="5620" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5653.5">Micro VM (WASM)</text>
+        </g>
+        <path d="M 1350 5575 L 1370 5575 Q 1380 5575 1380 5585 L 1380 5635 Q 1380 5645 1390 5645 L 1407 5645" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5645" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="2030" y="6690" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="2154.5" y="6723.5">Trusted</text>
+        </g>
+        <rect x="2030" y="6750" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="2154.5" y="6783.5">Mandated</text>
+        </g>
+        <path d="M 1970 6745 L 1990 6745 Q 2000 6745 2000 6735 L 2000 6725 Q 2000 6715 2010 6715 L 2027 6715" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="2030" cy="6715" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1970 6745 L 1990 6745 Q 2000 6745 2000 6755 L 2000 6765 Q 2000 6775 2010 6775 L 2027 6775" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="2030" cy="6775" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="2990" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="3023.5">Rescheduling</text>
+        </g>
+        <rect x="1720" y="3020" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="3053.5">Task rescheduling</text>
+        </g>
+        <rect x="1720" y="2960" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2993.5">Task preemption</text>
+        </g>
+        <path d="M 1660 3015 L 1680 3015 Q 1690 3015 1690 3005 L 1690 2995 Q 1690 2985 1700 2985 L 1717 2985" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2985" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1660 3015 L 1680 3015 Q 1690 3015 1690 3025 L 1690 3035 Q 1690 3045 1700 3045 L 1717 3045" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="3045" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="2920" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="2953.5">Multi-level</text>
+        </g>
+        <path d="M 1350 2875 L 1370 2875 Q 1380 2875 1380 2885 L 1380 2935 Q 1380 2945 1390 2945 L 1407 2945" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="2945" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 2875 L 1370 2875 Q 1380 2875 1380 2885 L 1380 3005 Q 1380 3015 1390 3015 L 1407 3015" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3015" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="6170" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="6216">Resource management</text>
+        </g>
+        <rect x="1410" y="6150" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="17px">
+            <text x="1534.5" y="6182">Oversubscription</text>
+        </g>
+        <rect x="1410" y="6080" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="17px">
+            <text x="1534.5" y="6112">Granularity</text>
+        </g>
+        <rect x="1410" y="6220" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="17px">
+            <text x="1534.5" y="6252">Shared access</text>
+        </g>
+        <rect x="1410" y="6290" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 248px; height: 1px; padding-top: 6315px; margin-left: 1411px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 17px; font-family: &quot;Courier New&quot;; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Specifications (entity model, relationships)</div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1535" y="6320" fill="#333333" font-family="Courier New" font-size="17px" text-anchor="middle" font-weight="bold">Specifications (entity model,...</text>
+            </switch>
+        </g>
+        <path d="M 930 5770 L 955 5770 Q 965 5770 965 5780 L 965 6195 Q 965 6205 975 6205 L 997 6205" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="6205" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 6205 L 1370 6205 Q 1380 6205 1380 6195 L 1380 6115 Q 1380 6105 1390 6105 L 1407 6105" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6105" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 6205 L 1370 6205 Q 1380 6205 1380 6195 L 1380 6185 Q 1380 6175 1390 6175 L 1407 6175" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6175" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 6205 L 1370 6205 Q 1380 6205 1380 6215 L 1380 6235 Q 1380 6245 1390 6245 L 1407 6245" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6245" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 6205 L 1370 6205 Q 1380 6205 1380 6215 L 1380 6305 Q 1380 6315 1390 6315 L 1407 6315" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="6315" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1410" y="5690" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5723.5">Unikernel</text>
+        </g>
+        <path d="M 1350 5575 L 1370 5575 Q 1380 5575 1380 5585 L 1380 5705 Q 1380 5715 1390 5715 L 1407 5715" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5715" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 5575 L 1407 5575" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5575" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1720" y="2410" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1844.5" y="2443.5">Arrival rate</text>
+        </g>
+        <path d="M 1660 2345 L 1680 2345 Q 1690 2345 1690 2355 L 1690 2425 Q 1690 2435 1700 2435 L 1717 2435" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1720" cy="2435" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <rect x="1000" y="5080" width="350" height="70" rx="10.5" ry="10.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="25px">
+            <text x="1174.5" y="5126">Isolation</text>
+        </g>
+        <rect x="1410" y="5020" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5053.5">Process</text>
+        </g>
+        <rect x="1410" y="5090" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5123.5">Network</text>
+        </g>
+        <rect x="1410" y="5160" width="250" height="50" rx="7.5" ry="7.5" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g fill="#333333" font-family="Courier New" font-weight="bold" text-anchor="middle" font-size="20px">
+            <text x="1534.5" y="5193.5">Data</text>
+        </g>
+        <path d="M 930 5770 L 955 5770 Q 965 5770 965 5760 L 965 5125 Q 965 5115 975 5115 L 997 5115" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1000" cy="5115" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 5115 L 1370 5115 Q 1380 5115 1380 5105 L 1380 5055 Q 1380 5045 1390 5045 L 1407 5045" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5045" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 5115 L 1407 5115" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5115" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 5115 L 1370 5115 Q 1380 5115 1380 5125 L 1380 5175 Q 1380 5185 1390 5185 L 1407 5185" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="5185" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+        <path d="M 1350 4025 L 1370 4025 Q 1380 4025 1380 4015 L 1380 4005 Q 1380 3995 1390 3995 L 1407 3995" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="1410" cy="3995" rx="3" ry="3" fill="#333333" stroke="#333333" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">Text is not SVG - cannot display</text>
+        </a>
+    </switch>
+</svg>
